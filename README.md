@@ -125,13 +125,16 @@ eurolens/
 ## Dashboard Preview
  
 **Page 1 — Overview**
-![Overview](assets/overview.png)
+<img width="1404" height="805" alt="Screenshot 2026-06-03 144245" src="https://github.com/user-attachments/assets/4eb79c36-32e4-47cb-81d4-265c6a02cf8b" />
+
  
 **Page 2 — Market Deep Dive**
-![Deep Dive](assets/deep_dive.png)
+<img width="704" height="403" alt="Screenshot 2026-06-03 151022" src="https://github.com/user-attachments/assets/6b985a5a-185f-4121-bcea-000ff6293997" />
+
  
 **Page 3 — Investment Intelligence**
-![Investment](assets/investment.png)
+<img width="703" height="403" alt="Screenshot 2026-06-03 151349" src="https://github.com/user-attachments/assets/a9aa40fb-3037-4f0e-8a7e-79a433b7970b" />
+
  
 ---
  
