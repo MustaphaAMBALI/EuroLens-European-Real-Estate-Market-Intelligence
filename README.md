@@ -107,17 +107,12 @@ Star schema with one-to-many relationships between the main fact table and the l
  
 ```
 eurolens/
-├── README.md
+├── dataset.xlsx
+├── sql
+├── documentation.docx
 ├── eurolens.pbix
-├── sql/
-│   ├── 01_market_activity.sql
-│   ├── 02_pricing_dynamics.sql
-│   ├── 03_investment_potential.sql
-│   └── 04_location_competitiveness.sql
-└── assets/
-    ├── overview.png
-    ├── deep_dive.png
-    └── investment.png
+└── README.md
+
 ```
  
 ---
